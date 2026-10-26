@@ -1,0 +1,3 @@
+Requester -> Submit reservation / Confirm booking
+Facility Administrator -> View dashboard / Review risk / Record final decision
+System Administrator -> Manage dataset access / Review model version
